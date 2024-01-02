@@ -32,4 +32,4 @@ This repository contains all my certifications, specializations, and achievement
 15) Business Writing (University of Colorado | Coursera)
 16) Rank 1 in the HSC high school
 
-Please feel free to check my ![](https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white) achievements here: [Credly Badges](https://www.credly.com/users/prathmesh-lonkar/badges)
+Please feel free to check my ![](https://www.credly.com/users/prathmesh-lonkar/badges?style=for-the-badge&logo=Credly&logoColor=white) achievements here: [Credly Badges](https://www.credly.com/users/prathmesh-lonkar/badges)
