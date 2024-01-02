@@ -1,9 +1,20 @@
 
 ![image](https://github.com/prathmeshlonkar10/Certifications/assets/66990159/c076bee0-7abc-4df3-bcce-4bd1002290ac)
+  
 
 ## Highlight
-This repository contains all my certifications, specializations, and achievements accomplished to date.
+This repository contains all my certifications, specializations, and achievements accomplished over time.
+  
 
+## Issued By
+![](https://img.shields.io/badge/IBM-052FAD.svg?style=for-the-badge&logo=IBM&logoColor=white)
+![](https://img.shields.io/badge/Microsoft-5E5E5E.svg?style=for-the-badge&logo=Microsoft&logoColor=white)
+![](https://img.shields.io/badge/Coursera-0056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+![](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)
+![](https://img.shields.io/badge/British%20Airways-2E5C99.svg?style=for-the-badge&logo=British-Airways&logoColor=white)
+  
+
+## Contents:
 1) British Airways Data Science Virtual internship (British Airways | Forage)
 2) KPMG Data Analytics Virtual Internship (KPMG | Forage)
 3) Python Specialization (University of Michigan | Coursera)
@@ -21,4 +32,4 @@ This repository contains all my certifications, specializations, and achievement
 15) Business Writing (University of Colorado | Coursera)
 16) Rank 1 in the HSC high school
 
-Please feel free to check my Credly badge achievements here: [Credly Badges](https://www.credly.com/users/prathmesh-lonkar/badges)
+Please feel free to check my ![](https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white) achievements here: [Credly Badges](https://www.credly.com/users/prathmesh-lonkar/badges)
