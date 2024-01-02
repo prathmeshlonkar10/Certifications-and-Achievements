@@ -6,7 +6,7 @@
 This repository contains all my certifications, specializations, and achievements accomplished over time.
   
 
-## Issued By
+## Certifications issued by
 ![](https://img.shields.io/badge/IBM-052FAD.svg?style=for-the-badge&logo=IBM&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft-5E5E5E.svg?style=for-the-badge&logo=Microsoft&logoColor=white)
 ![](https://img.shields.io/badge/Coursera-0056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
@@ -32,4 +32,4 @@ This repository contains all my certifications, specializations, and achievement
 15) Business Writing (University of Colorado | Coursera)
 16) Rank 1 in the HSC high school
 
-Please feel free to check my ![](https://www.credly.com/users/prathmesh-lonkar/badges?style=for-the-badge&logo=Credly&logoColor=white) achievements here: [Credly Badges](https://www.credly.com/users/prathmesh-lonkar/badges)
+Please feel free to check my Credly achievements here: [![](https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white)](https://www.credly.com/users/prathmesh-lonkar/badges)
