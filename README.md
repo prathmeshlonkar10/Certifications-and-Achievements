@@ -15,22 +15,23 @@ This repository contains all my certifications, specializations, and achievement
   
 
 ## Contents:
-1) British Airways Data Science Virtual internship (British Airways | Forage)
-2) KPMG Data Analytics Virtual Internship (KPMG | Forage)
-3) Python Specialization (University of Michigan | Coursera)
-4) IBM Data Science Professional Certification (IBM | Coursera)
-5) Intermediate Machine Learning (Kaggle)
-6) Data Cleaning and Visualization (Kaggle)
-7) Microsoft Certified AZ-900 Azure Fundamentals (Microsoft)
-8) Spark Fundamentals (IBM)
-9) Hadoop Fundamentals (IBM)
-10) Data Science Foundations - Level 2 (IBM)
-11) Big Data Foundations (IBM)
-12) Leadership and Emotional Intelligence (Indian School of Business | Coursera)
-13) Graphic Designing (University of Colorado | Coursera)
-14) Successful Presentation (University of Colorado | Coursera)
-15) Business Writing (University of Colorado | Coursera)
-16) Rank 1 in the HSC high school
+1) Venture Capital Industry Research & Data Analytics Externship (Energy Innovation Capital | Extern)
+2) British Airways Data Science Virtual internship (British Airways | Forage)
+3) KPMG Data Analytics Virtual Internship (KPMG | Forage)
+4) Python Specialization (University of Michigan | Coursera)
+5) IBM Data Science Professional Certification (IBM | Coursera)
+6) Intermediate Machine Learning (Kaggle)
+7) Data Cleaning and Visualization (Kaggle)
+8) Microsoft Certified AZ-900 Azure Fundamentals (Microsoft)
+9) Spark Fundamentals (IBM)
+10) Hadoop Fundamentals (IBM)
+11) Data Science Foundations - Level 2 (IBM)
+12) Big Data Foundations (IBM)
+13) Leadership and Emotional Intelligence (Indian School of Business | Coursera)
+14) Graphic Designing (University of Colorado | Coursera)
+15) Successful Presentation (University of Colorado | Coursera)
+16) Business Writing (University of Colorado | Coursera)
+17) Rank 1 in the HSC high school
 
 Please feel free to check my Credly achievements here: </br>
 [![](https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white)](https://www.credly.com/users/prathmesh-lonkar/badges)
